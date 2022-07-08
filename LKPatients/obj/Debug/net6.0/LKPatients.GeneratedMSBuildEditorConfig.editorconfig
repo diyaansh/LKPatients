@@ -1,0 +1,176 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LKPatients
+build_property.RootNamespace = LKPatients
+build_property.ProjectDir = C:\Users\Lalitha\Desktop\New folder (4)\LKPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Lalitha\Desktop\New folder (4)\LKPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKConcentrationUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb25jZW50cmF0aW9uVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKConcentrationUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb25jZW50cmF0aW9uVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKConcentrationUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb25jZW50cmF0aW9uVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKConcentrationUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb25jZW50cmF0aW9uVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKConcentrationUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb25jZW50cmF0aW9uVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKCountries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb3VudHJpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKCountries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb3VudHJpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKCountries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb3VudHJpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKCountries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb3VudHJpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKCountries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtDb3VudHJpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDiagnosisCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaWFnbm9zaXNDYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDiagnosisCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaWFnbm9zaXNDYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDiagnosisCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaWFnbm9zaXNDYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDiagnosisCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaWFnbm9zaXNDYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDiagnosisCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaWFnbm9zaXNDYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDispensingUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaXNwZW5zaW5nVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDispensingUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaXNwZW5zaW5nVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDispensingUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaXNwZW5zaW5nVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDispensingUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaXNwZW5zaW5nVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKDispensingUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtEaXNwZW5zaW5nVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedicationType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uVHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedicationType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uVHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedicationType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uVHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedicationType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uVHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedicationType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uVHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedication/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedication/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedication/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedication/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/LKMedication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTEtNZWRpY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lalitha/Desktop/New folder (4)/LKPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
